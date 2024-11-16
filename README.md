@@ -1,4 +1,4 @@
-# question-chatbot-over-SQLdata
+# question-chatbot-over-SQL or CSV data
 If you don't want to use a local development environment, Streamlit Community Cloud makes it easy to create a GitHub codespace that's fully configured for Streamlit app development.
 
 This is an example made through Streamlit Community Cloud https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit.app 
