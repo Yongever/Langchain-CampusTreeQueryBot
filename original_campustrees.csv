@@ -1,0 +1,741 @@
+Tag_Number,DBH_2019,DBH_2022,Species Co,LatinName,Species _1,Hazard_Rat,Sun,Hazard
+2,73.5,74.4,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+4,12.2,13.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+6,7,7.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+7,7.7,9.8,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+8,40.2,42.7,QURU,Quercus rubra,Northern Red Oak,Some distress,Partial,0
+9,42,43.5,QURU,Quercus rubra,Northern Red Oak,Healthy,Partial,0
+10,11.1,12.4,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+11,14.3,15.2,CASP,Catalpa speciosa,Northern Catalpa,Healthy,Partial,0
+12,5.4,6.6,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+13,9.2,11,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+14,21.9,26.7,CEOC,Celtis occidentalis,Northern Hackberry,Healthy,Partial,0
+15,74.4,83.2,CAGL,Carya glabra,Pignut Hickory,Some distress,Partial,0
+16,24.3,24.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+17,20.8,21,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+18,13.1,15.1,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+19,29.9,33.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+20,29.6,29.9,QURU,Quercus rubra,Northern Red Oak,Healthy,Partial,2
+21,4.6,4.6,CAGL,Carya glabra,Pignut Hickory,Some distress,Partial,0
+22,8.9,8.8,ACPL,Acer platanoides,Norway Maple,Some distress,Shade,0
+23,7.9,34.6,ACNE,Acer negundo,Boxelder,Some distress,Shade,1
+24,5.5,6.2,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+25,47.7,49,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+26,10.8,12.3,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+27,52.7,55,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+35,11.4,11.5,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+36,10.7,11.9,ACPL,Acer platanoides,Norway Maple,Some distress,Shade,0
+37,19.4,19.9,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+38,25.9,26.2,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+39,60.4,62.2,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+40,7.5,8.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+41,7.4,9.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+43,11.5,13.5,TIAM,Tilia americana,American Basswood,Healthy,Shade,0
+44,103.3,106.3,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+45,37.1,39.5,TIAM,Tilia americana,American Basswood,Some distress,Partial,0
+46,4.5,5.2,ACNE,Acer negundo,Boxelder,Some distress,Partial,0
+47,47.9,48.8,PRSE1,Prunus serotina,Black Cherry,Healthy,Partial,0
+48,6.5,6.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+49,17.8,19.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+56,9.3,9.5,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+57,14.2,14.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+58,58,57.9,CAGL,Carya glabra,Pignut Hickory,Some distress,Partial,0
+59,9.8,10.8,TIAM,Tilia americana,American Basswood,Some distress,Shade,0
+60,34.4,34.7,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+61,13.4,14.5,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+62,38.3,39.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+63,4.7,4.8,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+64,7.8,9.4,TIAM,Tilia americana,American Basswood,Healthy,Shade,0
+65,52.3,53.3,ROPS,Robinia pseudoacacia,Black Locust,Extreme distress,Partial,2
+66,8.3,8.2,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+67,55.7,24.2,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+68,22.7,57.9,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+69,,6.8,,,,Extreme distress,,
+70,7.6,9,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+72,48.1,48.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+75,6.3,6.3,COFL,Cornus florida,Florida Dogwood,Healthy,Partial,0
+76,9.1,8,ACNE,Acer negundo,Boxelder,Some distress,Partial,0
+77,6.9,7.6,CEOC,Celtis occidentalis,Northern Hackberry,Healthy,Shade,0
+78,7.9,7,ULAM,Ulmus americana,American Elm,Some distress,Partial,0
+79,6.4,7.8,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+81,73.4,73.5,ROPS,Robinia pseudoacacia,Black Locust,Some distress,Partial,0
+82,4.8,8,ACNE,Acer negundo,Boxelder,Healthy,Partial,0
+83,4.5,7.5,ACNE,Acer negundo,Boxelder,Healthy,Partial,0
+84,5.4,7.3,ACNE,Acer negundo,Boxelder,Healthy,Partial,0
+85,47.6,48.3,ROPS,Robinia pseudoacacia,Black Locust,Some distress,Partial,0
+86,8.8,9.3,ACPL,Acer platanoides,Norway Maple,Some distress,Shade,0
+87,20,29.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+88,22.4,21.9,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+91,70.4,70.4,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+92,6.8,6.7,ACNE,Acer negundo,Boxelder,Some distress,Partial,0
+95,14.4,8,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+96,7.1,15.4,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+97,40.7,48.3,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+98,13.2,14.6,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+99,9.7,10.5,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+100,10.5,12.6,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+101,38.9,41.6,ULAM,Ulmus americana,American Elm,Some distress,Partial,0
+102,28.7,29.6,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+103,34.6,35,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+104,10.9,11.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+105,22.8,25,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+107,10.1,10.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+108,4.5,4.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+109,15.9,16.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+110,25.5,25.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+115,9,9.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+116,43.5,40.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+117,24.3,25.9,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+118,9.9,10.6,ACPL,Acer platanoides,Norway Maple,Healthy,Shade,0
+119,0.9,9.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+120,31.6,21.5,PRSE2,Prunus serotina,Black Cherry,Extreme distress,Partial,0
+122,19.9,20.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+123,25.3,27.6,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+124,10.4,11,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+125,49.2,50.7,ULPA,Ulmus pumila,Siberian Elm,Healthy,Partial,0
+126,9.7,11.7,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+127,45,47.4,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+128,50.7,50,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+129,23.4,23.8,ULAM,Ulmus americana,American Elm,Some distress,Partial,0
+130,13.8,14.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+131,10.3,11,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+132,16.9,18,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+133,75.2,76.5,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+136,20.3,21.5,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+137,66.5,67,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+138,6.2,7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+139,5.8,5.9,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+140,8.5,8.6,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+141,8.1,8.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+142,6.8,6.5,PRSE4,Prunus serotina,Black Cherry,Healthy,Partial,0
+143,25.3,27.8,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+144,31.2,32.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+152,20.1,20.1,ACPL,Acer platanoides,Norway Maple,Extreme distress,Partial,2
+153,40.8,43.4,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+154,16.8,17.7,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+155,20.1,22,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+156,15.5,16.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+159,25.9,28.1,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+160,10.6,11,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+161,43.3,44.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+162,7.1,8.7,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+163,7.9,10.3,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+164,54,54.9,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+165,15.8,15.2,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+166,13.7,13.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+168,24.8,25.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+169,57.4,62.2,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+170,30.7,17.7,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+171,10.3,10.2,ULPA,Ulmus pumila,Siberian Elm,Healthy,Shade,0
+172,8,9.5,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+175,7.9,9.4,CEOC,Celtis occidentalis,Northern Hackberry,Healthy,Partial,0
+177,53.5,54,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+191,53.1,55.6,JUNI,Juglans nigra,Black Walnut,Some distress,Partial,0
+197,43.5,44.7,MOAL,Morus alba,White Mulberry,Healthy,Partial,0
+198,12.9,13.9,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+201,14,14.3,ACPL,Acer platanoides,Norway Maple,Extreme distress,Partial,0
+202,62.9,66.5,CEOC,Celtis occidentalis,Northern Hackberry,Some distress,Partial,0
+205,42.1,36,TIAM,Tilia americana,American Basswood,Some distress,Partial,0
+237,8.2,8.8,CEOC,Celtis occidentalis,Northern Hackberry,Some distress,Partial,0
+238,28.6,29,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+239,32.5,33.5,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+240,65.5,69.7,MOAL,Morus alba,White Mulberry,Some distress,Partial,0
+241,45.6,46.2,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+242,42.1,44,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+243,38.6,40.3,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+244,37.4,42.2,QUAL,Quercus alba,White Oak,Healthy,Sun,0
+245,90.9,91.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+246,63.5,63.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+247,30.6,31.5,CAOV,Carya ovata,Shagbark Hickory,Some distress,Partial,0
+248,51.2,53.6,TIPL,Tilia platyphyllos,Big Leaf Linden,Healthy,Partial,0
+249,48.5,49.4,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+250,52,53.6,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,1
+251,34.6,37.2,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+252,64.1,65.1,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+253,36.8,37,AEHI,Aesculus hippocastanum,Horse Chestnut,Healthy,Partial,0
+254,22.4,22.5,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,1
+255,91.1,92,QURU,Quercus rubra,Northern Red Oak,Some distress,Partial,0
+256,22.7,22,PRSE7,Prunus serotina,Black Cherry,Some distress,Partial,1
+257,28.9,29.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+258,34.1,36.8,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+259,63.5,63.6,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+261,64.8,64.8,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+262,58.2,59.1,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+263,39.2,40.2,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+264,114.2,117.5,ROPS,Robinia pseudoacacia,Black Locust,Some distress,Partial,1
+265,71.3,72,QURU,Quercus rubra,Northern Red Oak,Healthy,Partial,0
+266,43.6,44.8,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,1
+267,61,61.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+268,57.4,58.7,MOAL,Morus alba,White Mulberry,Healthy,Partial,1
+269,23.2,23.2,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+270,19.8,19.8,PINI,Pinus nigra,Austrian Pine,Healthy,Partial,2
+271,69,69.7,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+272,32.6,32.9,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+273,25.8,26.6,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+274,29.1,28.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+275,28.5,28.9,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+276,14.2,14.8,CAOV,Carya ovata,Shagbark Hickory,Some distress,Partial,0
+277,14.8,14.8,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+278,66.4,67.1,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+279,22,24.5,PIST,Pinus strobus,Eastern White Pine,Some distress,Partial,1
+281,21.7,21.2,PINI,Pinus nigra,Austrian Pine,Healthy,Partial,2
+282,70.1,70.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+283,44.1,44.4,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+284,55.9,56.1,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+285,56.8,57,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+286,20.5,21.1,QURU,Quercus rubra,Northern Red Oak,Healthy,Partial,0
+287,19.4,20.5,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+288,34,34.2,CAOV,Carya ovata,Shagbark Hickory,Extreme distress,Partial,0
+290,25.1,23.7,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,2
+291,66.6,68.3,QURU,Quercus rubra,Northern Red Oak,Healthy,Partial,2
+292,24.3,24.6,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,1
+293,21.9,22,PINI,Pinus nigra,Austrian Pine,Healthy,Partial,2
+294,62.7,63.2,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+295,30.5,33.5,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+299,37,38,QURU,Quercus rubra,Northern Red Oak,Some distress,Partial,1
+300,14.2,16.3,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,1
+301,27.6,30.1,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,1
+302,52.5,52.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+303,61.2,61.5,QURU,Quercus rubra,Northern Red Oak,Extreme distress,Partial,1
+304,50.8,51.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+305,38.5,38.5,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+306,63.4,63.9,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,1
+307,145.7,151.9,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Sun,1
+308,65.4,66.3,QUAL,Quercus alba,White Oak,Healthy,Sun,1
+318,43.3,46.3,BENI,Betula nigra,River birch,Healthy,Partial,0
+319,30.4,37.4,BENI,Betula nigra,River birch,Healthy,Partial,0
+320,30.6,21,BENI,Betula nigra,River birch,Healthy,Partial,0
+322,38.3,41,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+323,23.7,26.1,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+324,11.3,11.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+325,20.4,22.1,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+327,50.6,51.6,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+328,12.9,15,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+329,70.5,61.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+330,30,31,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+331,24.5,26.1,MOAL,Morus alba,White Mulberry,Healthy,Partial,0
+332,37.9,38.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+334,26.9,27.8,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+342,45.3,8.1,MOAL,Morus alba,White Mulberry,Healthy,Partial,0
+343,66.6,69.3,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+345,60,61.2,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+346,60.5,60.6,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+348,13,12.5,COFL,Cornus florida,Florida Dogwood,Healthy,Partial,0
+349,70.9,70.3,QUAL,Quercus alba,White Oak,Healthy,Partial,2
+350,25.6,27.1,JUNI,Juglans nigra,Black Walnut,Some distress,Partial,0
+351,56.4,64.3,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+352,28.6,29,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+353,49.2,49.9,PSME,Pseudotsuga menziesii,Douglas-fir,Healthy,Partial,0
+354,18.7,19.1,PIAB,Picea abies,Norway Spruce,Healthy,Partial,0
+355,43.2,43.8,PIAB,Picea abies,Norway Spruce,Healthy,Partial,0
+356,60.1,61,TABA,Taxus baccata,English Yew,Healthy,Partial,0
+357,54.6,55.9,PIAB,Picea abies,Norway Spruce,Healthy,Partial,0
+360,50.6,51.7,PIAB,Picea abies,Norway Spruce,Healthy,Partial,0
+375,41.4,41.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+376,25,25,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+378,83,85.1,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,1
+379,54.8,57.3,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+380,44.5,44.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,1
+381,63.6,65.3,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+382,23.5,24.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+383,50,50.5,PRSE9,Prunus serotina,Black Cherry,Some distress,Partial,0
+384,39.6,40.5,PISY,Pinus sylvestris,Scotch Pine,Extreme distress,Partial,1
+385,72.4,70.7,PIAB,Picea abies,Norway Spruce,Healthy,Partial,0
+387,13.3,34.5,COKO,Cornus kousa,Kousa Dogwood,Healthy,Sun,0
+388,93.6,92.8,QURU,Quercus rubra,Northern Red Oak,Healthy,Partial,0
+389,60.8,61.2,PIAB,Picea abies,Norway Spruce,Healthy,Partial,0
+390,42.7,43.3,PINI,Pinus nigra,Austrian Pine,Healthy,Sun,1
+501,30.5,31,PSME,Pseudotsuga menziesii,Douglas-fir,Extreme distress,Partial,0
+502,65,65.2,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+503,43.9,44,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+504,78.1,78.1,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+505,36.5,37.9,QURU,Quercus rubra,Red Oak,Some distress,Partial,0
+506,44.4,45,QURU,Quercus rubra,Red Oak,Some distress,Partial,0
+507,35.3,36,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+508,67.7,67.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+509,22.3,21.1,PRSE10,Prunus serotina,Black Cherry,Healthy,Partial,0
+510,33.6,33.9,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+511,56.5,57.1,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+512,41.8,43.1,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+513,46.5,47.5,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+514,36.9,37.1,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+515,28.3,28.6,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+516,23.6,24.2,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+517,27.8,27.3,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+518,29.3,29.4,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+519,29.2,29.8,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+520,28,27.9,PRSE11,Prunus serotina,Black Cherry,Healthy,Partial,1
+521,20.5,20.4,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+522,21.1,20.8,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+523,25.7,26,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+525,53.5,52.9,FAGR,Fagus grandifolia,American Beech,Healthy,Partial,0
+526,11.4,12.9,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+527,9.8,10.9,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+528,6.2,6,PIST,Pinus strobus,Eastern White Pine,Some distress,Shade,0
+529,9.4,10.9,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+530,13.2,14.8,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+531,7.5,9.1,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+533,6.7,8.5,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+534,3.9,4.3,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+535,6.6,8.5,PIST,Pinus strobus,Eastern White Pine,Healthy,Shade,0
+536,6.8,8.2,PIST,Pinus strobus,Eastern White Pine,Some distress,Shade,0
+537,16.6,17.4,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+538,37.9,38.5,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+539,59.6,59.9,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+542,37.2,37,ACPL,Acer platanoides,Norway Maple,Extreme distress,Partial,0
+543,23.6,23.3,ACPL,Acer platanoides,Norway Maple,Extreme distress,Partial,1
+545,14.7,15.8,ACSA2,Acer saccharum,Sugar Maple,Extreme distress,Partial,0
+546,34.3,19.1,ACSA3,Acer saccharum,Sugar Maple,Healthy,Partial,0
+547,49.5,49.8,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+548,16.7,17,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+549,70.6,71,QURU,Quercus rubra,Red Oak,Some distress,Partial,0
+551,43.5,44,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+552,27.1,26.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+553,44.1,43.4,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+554,85.7,85.4,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+555,23.5,23.7,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+556,67.5,65.5,QUAL,Quercus alba,White Oak,Some distress,Partial,1
+557,22.4,23,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+558,36.3,36.3,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+559,65.3,65.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+560,57,57.5,QUAL,Quercus alba,White Oak,Some distress,Partial,1
+561,38.7,38.8,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+562,26.2,25.7,QUAL,Quercus alba,White Oak,Extreme distress,Partial,0
+564,29.5,29,TIAM,Tilia americana,American Basswood,Some distress,Partial,2
+566,74.7,76,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+567,34.5,35.4,PSME,Pseudotsuga menziesii,Douglas-fir,Some distress,Partial,0
+568,77.1,77.7,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+570,61,61,QUAL,Quercus alba,White Oak,Extreme distress,Partial,0
+571,76.1,75.6,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+572,51.4,51.8,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+573,89.3,89,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+574,68.1,67.9,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+575,59.5,59,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+576,17.2,17.2,CAOV,Carya ovata,Shagbark Hickory,Some distress,Partial,0
+577,60.4,60.3,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+578,47.9,48.1,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+579,68.9,68.9,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+580,29.7,29.8,PRSE12,Prunus serotina,Black Cherry,Healthy,Partial,1
+581,51.3,51.3,QURU,Quercus rubra,Red Oak,Some distress,Partial,0
+582,33.5,33.7,PSME,Pseudotsuga menziesii,Douglas-fir,Healthy,Partial,0
+583,54.5,54.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+587,37.6,37.7,QURU,Quercus rubra,Red Oak,Some distress,Partial,0
+588,52.7,52.5,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+589,43.9,69.3,QURU,Quercus rubra,Red Oak,Some distress,Partial,0
+590,16.4,16.5,QUAL,Quercus alba,White Oak,Healthy,Partial,2
+592,13.9,14.3,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+593,35.8,34.8,ULAM,Ulmus americana,American Elm,Extreme distress,Partial,1
+594,20.7,20.5,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+595,29.9,49.7,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+596,66.2,65.6,QUAL,Quercus alba,White Oak,Some distress,Partial,1
+597,19.1,19.2,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+598,43.2,43.4,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+599,24.2,24.2,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+600,60.6,61.2,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+602,56.5,57.6,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+603,21.2,21.2,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+604,19.1,18.6,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+605,34.5,34.8,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+607,72.9,73.8,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+608,58.5,59.9,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+609,40.5,41.2,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+610,36.4,39.6,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+611,6.2,6.5,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+612,28.5,29.7,PINI,Pinus nigra,Austrian Pine,Healthy,Partial,2
+613,21.1,21.3,PINI,Pinus nigra,Austrian Pine,Healthy,Partial,2
+614,76.8,75.6,QUAL,Quercus alba,White Oak,Extreme distress,Partial,0
+615,12,26.4,MA3,Malus spp.,Crab Apple,Healthy,Partial,0
+616,36.1,23.4,CRDO,Crataegus douglasii,Black Hawthorn,Healthy,Partial,0
+617,,64.6,,,,Some distress,,
+618,48.9,50.3,THOC,Thuja occidentalis,Northern White Cedar,Some distress,Partial,1
+619,20.2,25.4,PYCA,Pyrus calleryana,Callery Pear,Healthy,Sun,0
+621,72.1,72.6,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+622,0,54.8,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+623,67.5,68,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+624,48.2,49.1,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+625,50.5,52.2,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+626,48.7,48.8,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+627,62.8,63.5,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+628,55.4,55.3,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+629,76,78.2,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+630,63.2,63.9,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+631,28.7,31.9,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+632,8.3,13,LITU,Liriodendron tulipifera,Tuliptree,Healthy,Partial,0
+633,36.4,38.6,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+634,48,49,QURU,Quercus rubra,Red Oak,Some distress,Partial,1
+635,47.5,49,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+636,79.6,79.7,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+637,90,90.8,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+639,48.3,48.9,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+640,76.7,77.7,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+641,38.3,39.4,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+642,28.4,28.6,PRSU,Prunus subhirtella,Weeping Cherry,Extreme distress,Partial,2
+643,15.7,44.2,MA4,Malus spp.,Crab Apple,Healthy,Partial,0
+644,13.3,13.9,COKO,Cornus kousa,Kousa Dogwood,Healthy,Shade,0
+645,39.9,41.9,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+646,22.9,25.9,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+647,39.4,39.7,PSME,Pseudotsuga menziesii,Douglas-fir,Healthy,Partial,1
+648,86.7,86.2,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+650,42.8,45,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+651,48.7,78.9,MA5,Malus spp.,Crab Apple,Healthy,Partial,0
+672,11.2,13.1,MOAL,Morus alba,White Mulberry,Healthy,Partial,0
+673,10.4,12.4,MOAL,Morus alba,White Mulberry,Healthy,Partial,0
+674,29.9,37.6,MA11,Malus spp.,Crab Apple,Healthy,Partial,1
+676,14.8,15.8,THOC,Thuja occidentalis,Northern White Cedar,Healthy,Partial,1
+677,45.6,67.4,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,1
+679,9.3,9.5,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+680,22.4,23.5,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+681,10.7,11.1,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+682,10.3,11,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+683,72.5,72,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+684,23,57.6,PRSE13,Prunus serotina,Black Cherry,Healthy,Partial,0
+685,37,37.2,PRSE14,Prunus serotina,Black Cherry,Healthy,Shade,0
+686,41.3,42.2,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+687,35.2,36.8,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+688,28.7,29.7,MA12,Malus spp.,Crab Apple,Healthy,Partial,1
+689,10.6,15.9,MEGL,Metasequoia glyptostroboides,Dawn Redwood,Healthy,Partial,0
+691,58.4,58.6,QURU,Quercus rubra,Red Oak,Some distress,Partial,0
+692,66.7,66.8,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+693,79.5,80.4,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+694,72.3,72.3,FAGR,Fagus grandifolia,American Beech,Healthy,Partial,0
+695,92.5,93.8,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+696,18.6,21.6,QURU,Quercus rubra,Red Oak,Healthy,Shade,0
+697,12.3,28.5,MA13,Malus spp.,Crab Apple,Healthy,Partial,0
+698,10.9,20.8,COKO,Cornus kousa,Kousa Dogwood,Healthy,Partial,0
+699,97.4,98.7,QUAL,Quercus alba,White Oak,Healthy,Sun,1
+700,28.1,31.3,PYCA,Pyrus calleryana,Callery Pear,Healthy,Partial,0
+702,19.1,40,MA15,Malus spp.,Crab Apple,Healthy,Partial,0
+704,22.7,23,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+705,48.1,48.2,CAOV,Carya ovata,Shagbark Hickory,Some distress,Partial,0
+706,82.2,82.8,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+707,59.9,56.5,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,1
+708,28.7,29.3,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+709,18.3,18.2,QURU,Quercus rubra,Red Oak,Extreme distress,Partial,0
+710,22.7,23.7,PIPU,Picea pungens,Blue Spruce,Healthy,Partial,1
+711,49.9,19.9,CEOC,Celtis occidentalis,Northern Hackberry,Healthy,Partial,1
+712,66.5,66.9,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+714,27,27.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+715,20,20.7,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+717,17.7,18.3,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+718,52.4,77.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+719,28.1,27.8,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+720,83.3,82.9,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+721,46.5,47,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+722,50.7,51.3,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+723,20.4,21,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+724,36.2,37.2,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+725,34.2,34.5,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+726,24.4,24.3,CAOV,Carya ovata,Shagbark Hickory,Some distress,Partial,0
+727,19.7,20.1,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+728,16,16.2,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+729,35.2,35.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+730,36.7,36.7,CAOV,Carya ovata,Shagbark Hickory,Healthy,Partial,0
+731,34.1,34.4,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+732,32.8,33.1,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+733,39.2,40,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+734,17.9,19.8,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+735,77.2,78.4,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+736,19.7,19.8,PRSU,Prunus subhirtella,Weeping Cherry,Healthy,Partial,1
+737,77.2,78.7,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+739,18.2,22,COFL,Cornus Florida,Florida dogwood,Some distress,Shade,1
+740,16.6,16.5,CECA,Cercis canadensis,Eastern Redbud,Healthy,Partial,0
+741,29.9,21.1,CECA,Cercis canadensis,Eastern Redbud,Healthy,Partial,1
+742,8.3,9.2,CECA,Cercis canadensis,Eastern Redbud,Healthy,Partial,0
+743,13.5,14.2,PIGL1,Picea glauca,White Spruce,Healthy,Partial,0
+744,8.9,9.1,CECA,Cercis canadensis,Eastern Redbud,Healthy,Partial,0
+745,21.1,20.9,CECA,Cercis canadensis,Eastern Redbud,Healthy,Partial,0
+746,9.8,10,MA16,Malus spp.,Crab Apple,Healthy,Partial,0
+747,12.4,22.5,MA17,Malus spp.,Crab Apple,Healthy,Partial,0
+749,67.6,72.3,QUAL,Quercus alba,White Oak,Some distress,Partial,1
+750,83.2,85,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+751,65.2,67.4,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+752,68.7,69.7,FAGR,Fagus grandifolia,American Beech,Healthy,Partial,0
+753,80.9,82.2,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+754,79.4,80.7,QUAL,Quercus alba,White Oak,Healthy,Sun,1
+755,34.6,51.2,MA19,Malus spp.,Crab Apple,Healthy,Sun,0
+760,89.3,89.1,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+761,23.7,31.7,MA20,Malus spp.,Crab Apple,Healthy,Partial,1
+762,21.6,16.7,MA21,Malus spp.,Crab Apple,Healthy,Partial,1
+763,9.5,12.3,ACPA,Acer palmatum,Japanese Maple,Healthy,Partial,0
+764,32.7,26.3,MA22,Malus spp.,Crab Apple,Healthy,Partial,1
+765,33.1,31.8,MA23,Malus spp.,Crab Apple,Healthy,Partial,1
+766,26.2,24.3,MA24,Malus spp.,Crab Apple,Healthy,Partial,0
+767,29.9,20.5,MA25,Malus spp.,Crab Apple,Healthy,Partial,0
+768,15.1,23.5,PYCA,Pyrus calleryana,Callery Pear,Healthy,Sun,0
+771,44.5,47.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+772,27.9,30.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+774,74.7,75.3,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+775,134.2,133.9,FAGR,Fagus grandifolia,American Beech,Healthy,Partial,1
+776,82.3,83.4,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+777,29.8,34.2,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+778,84.7,84.1,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+779,106,106.2,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+780,23.8,27.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+781,47.1,50.6,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+782,15.7,18.4,QUIM,Quercus imbricaria,Shingle Oak,Healthy,Partial,1
+783,31.9,34.8,QUMA1,Quercus macrocarpa,Bur Oak,Healthy,Partial,1
+785,62.7,65.2,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+786,62.5,65.5,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+787,35.4,37.8,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+788,33.1,35.4,QUMA2,Quercus macrocarpa,Bur Oak,Healthy,Partial,2
+789,69,72.2,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+790,99.3,98.8,FAGR,Fagus grandifolia,American Beech,Some distress,Partial,2
+791,62.3,62.3,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+792,14.4,16.8,QUPA,Quercus palustris,Pin Oak,Healthy,Partial,1
+793,5.1,7.3,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+794,42.4,44.6,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+795,79,79.3,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+796,76,76.1,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+797,75.9,76.2,QUAL,Quercus alba,White Oak,Some distress,Partial,1
+801,43.2,46.3,QUMA3,Quercus macrocarpa,Bur Oak,Healthy,Partial,0
+802,24.5,31.1,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+803,85.5,105.2,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+804,91.6,92,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+805,36.4,38.7,QURU,Quercus rubra,Red Oak,Healthy,Sun,0
+806,20.1,25.8,PYCA,Pyrus calleryana,Callery Pear,Healthy,Sun,0
+807,75.2,78,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+809,37.4,39.2,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+810,55.7,57.9,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+812,48.2,49.3,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+813,68.1,71.8,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+814,73.6,77.4,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+815,71.8,76.2,QURU,Quercus rubra,Red Oak,Healthy,Sun,0
+816,81.8,85.7,QURU,Quercus rubra,Red Oak,Healthy,Partial,1
+817,40.4,40.4,MA26,Malus spp.,Crab Apple,Some distress,Partial,0
+820,26.3,28.3,PYCA,Pyrus calleryana,Callery Pear,Healthy,Partial,0
+822,53.2,59.4,QUMA4,Quercus macrocarpa,Bur Oak,Healthy,Sun,1
+823,19,30.4,LITU,Liriodendron tulipifera,Tuliptree,Healthy,Sun,0
+825,20.1,45.2,PYCA,Pyrus calleryana,Callery Pear,Healthy,Sun,0
+827,73.3,45.8,CECA,Cercis canadensis,Eastern Redbud,Some distress,Partial,0
+828,42.2,42.3,PIAB,Picea abies,Norway Spruce,Healthy,Partial,1
+829,40.6,43,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+830,37.3,40.7,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+831,40.6,42.8,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+832,30.1,30.5,PSME,Pseudotsuga menziesii,Douglas-fir,Healthy,Partial,1
+834,21.4,36.9,PYCA,Pyrus calleryana,Callery Pear,Healthy,Partial,0
+835,24,54.5,PYCA,Pyrus calleryana,Callery Pear,Healthy,Partial,1
+836,31,41.9,PYCA,Pyrus calleryana,Callery Pear,Healthy,Partial,0
+843,37.1,38,PSME,Pseudotsuga menziesii,Douglas-fir,Healthy,Partial,0
+844,81,81.3,QUAL,Quercus alba,White Oak,Healthy,Partial,1
+845,63.4,64,QUIM,Quercus imbricaria,Shingle Oak,Healthy,Sun,0
+846,25.8,28.8,QUPA,Quercus palustris,Pin Oak,Healthy,Partial,0
+847,20.1,22.2,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+848,34.9,36,PRSE15,Prunus serotina,Black Cherry,Healthy,Partial,0
+849,99.1,99.5,QUAL,Quercus alba,White Oak,Healthy,Sun,0
+850,94.5,95.3,QUAL,Quercus alba,White Oak,Some distress,Partial,1
+851,25.2,24.9,PSME,Pseudotsuga menziesii,Douglas-fir,Healthy,Partial,1
+854,110.8,112,QUAL,Quercus alba,White Oak,Healthy,Sun,0
+991,99.1,98,QUAL,Quercus alba,White Oak,Healthy,Partial,0
+992,64.3,66.7,PINI,Pinus nigra,Austrian Pine,Healthy,Partial,0
+993,5,9.3,QURU,Quercus rubra,Red Oak,Healthy,Partial,0
+1001,18.6,20.9,PYCA,Pyrus calleryana,Callery Pear,Healthy,Partial,0
+1002,22.1,23.8,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1003,21.4,24.5,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1004,24.7,26.6,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1005,25.1,27.1,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1006,28.7,32.8,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1007,18.5,18.9,BEPA,Betula papyrifera,Paper Birch,Healthy,Sun,0
+1008,45.4,54.2,MA30,Malus spp.,Crab Apple,Healthy,Partial,0
+1011,19.7,20.1,COKO,Cornus kousa,Kousa Dogwood,Some distress,Partial,0
+1012,14.3,18.3,PRSU,Prunus subhirtella,Weeping Cherry,Some distress,Partial,0
+1013,26.1,29,FASY,Fagus sylvatica,European Beech,Healthy,Sun,0
+1014,34.9,74.1,MA31,Malus spp.,Crab Apple,Healthy,Sun,0
+1019,14.3,24.3,MA32,Malus spp.,Crab Apple,Healthy,Sun,0
+1020,6,10.8,PRSU,Prunus subhirtella,Weeping Cherry,Healthy,Sun,0
+1021,27.1,28.8,ACPL,Acer platanoides,Norway Maple,Some distress,Sun,0
+1022,38.7,39.1,ACPL,Acer platanoides,Norway Maple,Extreme distress,Sun,0
+1023,7.1,7.4,ACSA4,Acer saccharum,Sugar Maple,Healthy,Sun,0
+1025,42.9,51.4,MEGL,Metasequoia glyptostroboides,Dawn Redwood,Some distress,Partial,0
+1026,20,11.7,TSCA,Tsuga canadensis,Eastern Hemlock,Extreme distress,Partial,0
+1027,13.7,13.4,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1028,16.4,14.3,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1029,12.8,18,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1030,19.5,20.7,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1031,17.2,13.3,TSCA,Tsuga canadensis,Eastern Hemlock,,Partial,0
+1032,12.9,16.8,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1033,13,13.8,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1034,10.2,22.7,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1036,19.8,22.6,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1037,12.2,12.4,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1038,13,14.5,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1039,13.7,16,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1040,11.3,11.5,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1041,9.6,21.3,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1042,13,12.3,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1043,16,17.3,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1044,12.3,13.1,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1045,13.9,14.6,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1046,13.8,14.4,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1047,8.2,9,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1048,10.4,11.8,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1049,14.6,16,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1050,11.9,14.2,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1051,13.5,16.3,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1052,19.1,21,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1053,18.6,21.3,TSCA,Tsuga canadensis,Eastern Hemlock,Healthy,Partial,0
+1054,8.6,10.3,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1055,14,16.3,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1056,9,10.6,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1057,8.5,10.9,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1058,7.9,9.9,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1059,11.3,15.4,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1060,20.1,25.2,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1061,12.5,16.4,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1062,8.2,9.4,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1063,17,25.8,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1064,8.8,9.2,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1065,10.4,20.8,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1066,9.9,12,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1067,9.7,12,FASY,Fagus sylvatica,European Beech,Some distress,Partial,0
+1068,5.1,6,FASY,Fagus sylvatica,European Beech,Some distress,Partial,0
+1069,7.4,9.3,FASY,Fagus sylvatica,European Beech,Healthy,Partial,0
+1070,44.7,46,PLOC,Platanus occidentalis,American Sycamore,Healthy,Sun,0
+1071,34.5,35.3,PLOC,Platanus occidentalis,American Sycamore,Healthy,Sun,0
+1072,34.3,34.6,PLOC,Platanus occidentalis,American Sycamore,Healthy,Sun,0
+1073,32,33.6,PLOC,Platanus occidentalis,American Sycamore,Healthy,Sun,0
+1075,25.6,26.4,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1076,12,12.1,PIST,Pinus strobus,Eastern White Pine,Some distress,Partial,0
+1077,22.6,23.4,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+1078,27,28.5,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1079,24.6,25.4,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+1080,25.7,27.7,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1081,21.1,21.6,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+1082,26.9,27.9,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,1
+1083,20.4,12.6,CRDO,Crataegus douglasii,Black Hawthorne,Extreme distress,Partial,0
+1084,27.3,21.8,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,0
+1085,27.1,29.5,PYCA,Pyrus calleryana,Callery Pear,Healthy,Sun,0
+1086,19.2,31.8,MA33,Malus spp.,Crab Apple,Healthy,Partial,0
+1090,22.9,22.8,COKO,Cornus kousa,Kousa Dogwood,Some distress,Sun,0
+1092,21.2,16.2,COKO,Cornus kousa,Kousa Dogwood,Some distress,Partial,0
+1093,46.4,54.6,MA34,Malus spp.,Crab Apple,Healthy,Partial,0
+1094,47.3,54.5,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,1
+1095,54.5,58.7,QUAL,Quercus alba,White Oak,Healthy,Sun,0
+1096,34.1,34.7,AEGL,Aesculus glabra,Ohio Buckeye,Healthy,Sun,0
+1097,54,60.1,QUAL,Quercus alba,White Oak,Healthy,Sun,0
+1098,36.9,36.9,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,0
+1099,50.7,23.7,MA35,Malus spp.,Crab Apple,Some distress,Partial,1
+1100,16,31.1,MA36,Malus spp.,Crab Apple,Some distress,Partial,1
+1101,48.4,48.7,MA37,Malus spp.,Crab Apple,Healthy,Partial,1
+1104,6,5.6,SYRE,Syringa reticulata,Japanese Lilac,Healthy,Partial,0
+1105,5.7,5.9,SYRE,Syringa reticulata,Japanese Lilac,Healthy,Shade,0
+1106,5.1,5,SYRE,Syringa reticulata,Japanese Lilac,Healthy,Partial,0
+1107,4.3,4.7,SYRE,Syringa reticulata,Japanese Lilac,Healthy,Partial,0
+1115,37.5,38.5,PINI,Pinus nigra,Austrian Pine,Some distress,Partial,2
+1117,45.3,47.9,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1118,42,43.7,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1119,53.7,55,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+1120,28.7,29.3,PINI,Pinus nigra,Austrian Pine,Extreme distress,Partial,2
+1121,40.5,40.5,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1122,57.3,60.4,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+1123,64.4,63.5,ROPS,Robinia pseudoacacia,Black Locust,,Partial,0
+1124,63.5,64.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+1125,20.8,21.4,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+1126,18.3,29.8,PRSE17,Prunus serotina,Black Cherry,Healthy,Partial,0
+1127,67.7,68.1,ACSA5,Acer saccharum,Sugar Maple,Healthy,Partial,0
+1130,28.4,28.9,ACPL,Acer platanoides,Norway Maple,Healthy,Sun,0
+1131,66,67.6,FAGR,Fagus grandifolia,American Beech,Extreme distress,Partial,0
+1132,56.4,57,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1133,29,33.6,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1134,53,52.9,ACSA6,Acer saccharum,Sugar Maple,Some distress,Partial,0
+1135,42.1,43.6,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+1141,16.5,53.4,PLOC,Platanus occidentalis,American Sycamore,Healthy,Sun,0
+1142,15,21.4,PYCA,Pyrus calleryana,Callery Pear,Healthy,Sun,0
+1143,18.8,51.1,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,0
+1144,22.6,65.1,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,0
+1145,20.5,76.8,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,0
+1147,22.4,41.6,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,0
+1148,23.4,59.4,CRDO,Crataegus douglasii,Black Hawthorne,Healthy,Partial,0
+1149,26.9,21.8,ACPL,Acer platanoides,Norway Maple,Healthy,Sun,0
+1151,16.5,17.9,GIBI,Ginkgo biloba,Ginkgo,Healthy,Sun,0
+1152,15,16.7,GIBI,Ginkgo biloba,Ginkgo,Healthy,Sun,0
+1172,39.8,41.1,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,1
+1173,46.4,46.6,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+1177,70.8,72.3,PLOC,Platanus occidentalis,American Sycamore,Some distress,Partial,1
+1178,70.3,70.5,PLOC,Platanus occidentalis,American Sycamore,Healthy,Partial,1
+1179,70.5,70.7,PLOC,Platanus occidentalis,American Sycamore,Healthy,Partial,2
+1180,70,72.2,PLOC,Platanus occidentalis,American Sycamore,Healthy,Partial,1
+1182,71.9,72.2,PLOC,Platanus occidentalis,American Sycamore,Healthy,Partial,1
+1183,65.2,65.7,PLOC,Platanus occidentalis,American Sycamore,Healthy,Partial,1
+1184,8.2,71.3,MA48,Malus spp.,Crab Apple,Healthy,Sun,0
+1190,23.5,27.6,PYCA,Pyrus calleryana,Callery Pear,Healthy,Partial,0
+1196,132,136.7,FASY,Fagus sylvatica,European Beech,Extreme distress,Sun,0
+1217,49.3,53.8,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1218,86.7,88.2,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1219,64.6,70.5,QUAL,Quercus alba,White Oak,Some distress,Sun,0
+1224,46.5,48.7,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Shade,0
+1225,50.2,54.4,ACRU,Acer rubrum,Red Maple,Healthy,Sun,0
+1228,38,37.6,ACSA7,Acer saccharum,Sugar Maple,Healthy,Partial,0
+1229,55.2,55.6,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,1
+1230,41.3,43.4,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1231,43.8,45.9,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1232,48.5,55.8,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,0
+1238,101,101.3,MALI,Magnolia liliiflora,Lily Magnolia,Some distress,Partial,0
+1239,64.7,47.2,MALI,Magnolia liliiflora,Lily Magnolia,Healthy,Partial,0
+1242,40.5,41.6,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+1243,41.5,43.8,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+1244,51.3,52,ACPL,Acer platanoides,Norway Maple,Healthy,Partial,0
+1245,49.5,50,GLTR,Gleditsia triacanthos,Honeylocust,Healthy,Partial,1
+1246,19.1,19.5,FAGR,Fagus grandifolia,American Beech,Healthy,Partial,0
+1248,63.7,65.5,PIAB,Picea abies,Norway Spruce,Healthy,Partial,1
+1249,59.9,60.1,PLOC,Platanus occidentalis,American Sycamore,Healthy,Partial,1
+1250,82.2,81.2,PLOC,Platanus occidentalis,American Sycamore,Healthy,Sun,1
+1251,64.8,68.5,PLOC,Platanus occidentalis,American Sycamore,Healthy,Partial,1
+1255,27.2,16,MA52,Malus spp.,Crab Apple,Healthy,Partial,0
+1256,27.3,25.1,MA53,Malus spp.,Crab Apple,Healthy,Partial,0
+1260,51.5,51,ACPL,Acer platanoides,Norway Maple,Some distress,Partial,0
+1262,7.4,13.2,MA55,Malus spp.,Crab Apple,Healthy,Partial,0
+1263,35.7,36.7,JUNI,Juglans nigra,Black Walnut,Some distress,Partial,0
+1264,7,14.9,MA56,Malus spp.,Crab Apple,Healthy,Partial,0
+1266,56.7,57.3,CEOC,Celtis occidentalis,Northern Hackberry,Healthy,Partial,1
+1267,21.5,21.7,ACPL,Acer platanoides,Norway Maple,Healthy,Sun,1
+1268,34.1,35.6,TICO,Tilia cordata,Little Leaf Linden,Healthy,Partial,1
+1269,39.6,40.2,MA57,Malus spp.,Crab Apple,Healthy,Partial,0
+1270,46.1,40.8,MA58,Malus spp.,Crab Apple,Healthy,Partial,0
+1271,44.5,55.6,MA59,Malus spp.,Crab Apple,Healthy,Partial,0
+1272,49.7,51.1,PSME,Pseudotsuga menziesii,Douglas-fir,Healthy,Sun,1
+1273,44.5,44.7,ACSA8,Acer saccharum,Sugar Maple,Some distress,Partial,0
+1274,38.3,39.2,ACSA9,Acer saccharum,Sugar Maple,Healthy,Partial,0
+1275,93,94.6,JUNI,Juglans nigra,Black Walnut,Extreme distress,Partial,0
+1276,87.4,85.5,AIAL,Ailanthus altissima,Tree of Heaven,Healthy,Sun,1
+1279,109.8,113.8,TIAM,Tilia americana,American Basswood,Healthy,Partial,0
+1280,32.5,33.4,JUNI,Juglans nigra,Black Walnut,Extreme distress,Partial,0
+1282,57.2,58.5,JUNI,Juglans nigra,Black Walnut,Healthy,Partial,0
+1283,40.6,42,QUAL,Quercus alba,White Oak,Some distress,Partial,0
+1284,29.2,29.2,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+1285,60.6,61.8,ULAM,Ulmus americana,American Elm,Healthy,Partial,0
+1286,25.3,27.8,ACSA10,Acer saccharum,Sugar Maple,Healthy,Partial,0
+1287,18.3,18.4,PISY,Pinus sylvestris,Scotch Pine,Healthy,Partial,1
+1289,9.2,9.7,ACPL,Acer platanoides,Norway Maple,Healthy,Sun,0
+1290,15.4,15.9,ACPL,Acer platanoides,Norway Maple,Healthy,Sun,0
+1292,33.5,35,TICO,Tilia cordata,Little Leaf Linden,Healthy,Partial,0
+1293,,13,,,,Healthy,,
+1296,4.8,16.4,ACRU,Acer rubrum,Red Maple,Healthy,Sun,0
+1297,16,19.8,BENI,Betula nigra,River birch,Healthy,Partial,0
+1300,37,73,PRSE18,Prunus serotina,Black Cherry,Healthy,Partial,0
+1311,14.5,17.5,ACGR,Acer griseum,Paperbark Maple,Healthy,Sun,0
+1312,17.5,21.2,ACGR,Acer griseum,Paperbark Maple,Healthy,Sun,0
+1313,12.3,35.6,ACGR,Acer griseum,Paperbark Maple,Healthy,Sun,0
+1314,15.9,28.5,ACGR,Acer griseum,Paperbark Maple,Healthy,Partial,0
+1316,55.8,54.3,BENI,Betula nigra,River birch,Healthy,Partial,0
+1317,53.7,64.7,BENI,Betula nigra,River birch,Healthy,Partial,0
+1319,12.5,13.3,ABFR,Abies fraseri,Fraser Fir,Healthy,Partial,0
+1320,40.9,42.8,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1321,48.8,50,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1322,51.3,53.5,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1323,33.5,35.8,ROPS,Robinia pseudoacacia,Black Locust,Healthy,Partial,0
+1324,13,14.2,ABFR,Abies fraseri,Fraser Fir,Some distress,Partial,0
+1326,14,16.4,ABFR,Abies fraseri,Fraser Fir,Healthy,Partial,0
+1328,17,18.9,ABFR,Abies fraseri,Fraser Fir,Healthy,Sun,0
+1329,13.8,14.6,ABFR,Abies fraseri,Fraser Fir,Healthy,Partial,0
+1330,16.3,16.3,ABFR,Abies fraseri,Fraser Fir,Healthy,Partial,0
+1331,14,15.3,ABFR,Abies fraseri,Fraser Fir,Healthy,Partial,1
+1332,13,12.9,ABFR,Abies fraseri,Fraser Fir,Healthy,Partial,2
+1333,7.4,7.2,ABFR,Abies fraseri,Fraser Fir,Healthy,Partial,1
+1334,11.5,11.8,ABFR,Abies fraseri,Fraser Fir,Some distress,Partial,2
+1335,48.4,48,BENI,Betula nigra,River birch,Healthy,Partial,0
+1336,53.1,58.5,BENI,Betula nigra,River birch,Healthy,Partial,0
+1337,72.6,87,BENI,Betula nigra,River birch,Healthy,Partial,0
+1341,37.4,37.2,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1342,32,33,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1343,44.1,46.5,PIST,Pinus strobus,Eastern White Pine,Healthy,Partial,0
+1345,21.6,23.7,ACPL,Acer platanoides,Norway Maple,Extreme distress,Sun,0
