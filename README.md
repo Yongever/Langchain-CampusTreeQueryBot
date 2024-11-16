@@ -5,7 +5,7 @@ This is an example made through Streamlit Community Cloud:
 
 https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit.app 
 
-<img width="731" alt="image" src="https://github.com/user-attachments/assets/d64fcd3c-f017-4a9f-8f97-6870ca7013ae">
+<img width="730" alt="image" src="https://github.com/user-attachments/assets/ee19e26a-5e40-40f2-805c-bb7a129a6d7e">
 
 
 Example after some prompts
