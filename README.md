@@ -5,3 +5,4 @@ This is an example made through Streamlit Community Cloud https://question-answe
 
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/efe35392-ca46-425b-ad35-aeacdd80ad24">
 
+<img width="721" alt="image" src="https://github.com/user-attachments/assets/720995c1-983e-4395-b592-ca7d23902af2">
