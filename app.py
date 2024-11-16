@@ -1,28 +1,52 @@
 import streamlit as st
-import openai 
-import os 
+from openai import OpenAI
 
 st.set_page_config(page_title="ChatGPT")
-st.title("Questions with our campus trees dataset?")
+st.title("💬Questions with our campus trees dataset?")
 
-# st.write("Hello World")
-import numpy as np
-with st.chat_message("user"):
-    st.write("Hello 👋")
-    # st.line_chart(np.random.randn(30, 3))
+
+
+
+# Show title and description.
+st.write(
+    "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses."
+)
+st.write(
+    "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
+)
+st.write("You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
+)
+openai_api_key = st.text_input("OpenAI API Key", type="password")
+# OPENAI_API_KEY=openai_api_key
+if not openai_api_key:
+    st.info("Please add your OpenAI API key to continue.", icon="🗝️")
+
+
+
+
+
+from utils import get_answer_csv # type: ignore
+uploaded_file = "./original_campustrees.csv"
+query = st.text_area("Ask any question related to the document")
+if openai_api_key:
+    st.write(get_answer_csv(uploaded_file, openai_api_key, query))
+
+# uploaded_file = st.file_uploader("Upload a csv file", type=["csv"])
+# if uploaded_file is not None:
+#     query = st.text_area("Ask any question related to the document")
+#     button = st.button("Submit")
+#     if button:
+#         st.write(get_answer_csv(uploaded_file, query))
+
+
+
 
 # Ask user for their OpenAI API key via `st.text_input`.
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
 # via `st.secrets`, see https://docs.streamlit.io/develop/concepts/connections/secrets-management
-openai_api_key = st.text_input("OpenAI API Key", type="password")
-# openai_api_key = os.getenv('OPENAI_API_KEY')
-
-if not openai_api_key:
-    st.info("Please add your OpenAI API key to continue.", icon="🗝️")
-else:
-
+if openai_api_key:
     # Create an OpenAI client.
-    client = openai(api_key=openai_api_key)
+    client = OpenAI(api_key=openai_api_key)
 
     # Create a session state variable to store the chat messages. This ensures that the
     # messages persist across reruns.
@@ -60,17 +84,9 @@ else:
         st.session_state.messages.append({"role": "assistant", "content": response})
 
 
-uploaded_file = st.file_uploader("Upload a csv file", type=["csv"])
-
-from utils import get_answer_csv # type: ignore
-
-if uploaded_file is not None:
-    query = st.text_area("Ask any question related to the document")
-    button = st.button("Submit")
-    if button:
-        st.write(get_answer_csv(uploaded_file, query))
 
 
-prompt = st.chat_input("Say something")
-if prompt:
-    st.write(f"User has sent the following prompt: {prompt}")
+
+# prompt = st.chat_input("Say something")
+# if prompt:
+#     st.write(f"User has sent the following prompt: {prompt}")
