@@ -1,3 +1,3 @@
 # question-chatbot-over-SQLdata
 
-<img width="730" alt="image" src="https://github.com/user-attachments/assets/29873f4e-056f-40a9-a135-4926507a2e93">
+<img width="721" alt="image" src="https://github.com/user-attachments/assets/720995c1-983e-4395-b592-ca7d23902af2">
