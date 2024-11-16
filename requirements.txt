@@ -1,0 +1,4 @@
+openai==1.54.4
+langchain
+langchain_experimental
+langchain_community
