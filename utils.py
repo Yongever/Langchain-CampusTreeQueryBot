@@ -9,7 +9,7 @@ import streamlit as st
 from langchain_experimental.agents import create_csv_agent
 from langchain_community.llms import OpenAI
 
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+# openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 def get_answer_csv(file: TextIO, query: str) -> str:
     """
