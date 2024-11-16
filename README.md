@@ -6,6 +6,7 @@ This is an example made through Streamlit Community Cloud https://question-answe
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/efe35392-ca46-425b-ad35-aeacdd80ad24">
 
 Example after some prompt
+
 <img width="724" alt="image" src="https://github.com/user-attachments/assets/eb61eed7-ccab-4da4-a821-f57fef5f70d8">
 
 
