@@ -4,8 +4,7 @@ If you don't want to use a local development environment, Streamlit Community Cl
 This is an example made through Streamlit Community Cloud:
 
 https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit.app 
-
-<img width="728" alt="image" src="https://github.com/user-attachments/assets/efe35392-ca46-425b-ad35-aeacdd80ad24">
+<img width="739" alt="image" src="https://github.com/user-attachments/assets/1f8ecbc9-e837-4d9a-b22e-185eef52cbd4">
 
 Example after some prompts
 
