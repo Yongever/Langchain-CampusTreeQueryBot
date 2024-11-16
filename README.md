@@ -10,4 +10,4 @@ https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit
 
 Example after some prompts
 
-<img width="724" alt="image" src="https://github.com/user-attachments/assets/eb61eed7-ccab-4da4-a821-f57fef5f70d8">
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/fb2e18b4-2fef-4b50-8366-65fec5f4846b">
