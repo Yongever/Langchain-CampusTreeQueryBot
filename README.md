@@ -4,11 +4,11 @@
 
 At a high-level, the steps of these systems are:
 
-Convert question to SQL query: Model converts user input to a SQL query.
+1. Convert question to SQL query: Model converts user input to a SQL query.
 
-Execute SQL query: Execute the query.
+2. Execute SQL query: Execute the query.
 
-Answer the question: Model responds to user input using the query results.
+3. Answer the question: Model responds to user input using the query results.
 
 Note that querying data in CSVs can follow a similar approach
 
