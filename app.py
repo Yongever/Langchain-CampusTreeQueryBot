@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 st.set_page_config(page_title="ChatGPT")
-st.title("💬Questions with our campus trees dataset?")
+# st.title("💬Questions with our campus trees dataset?")
 
 
 
