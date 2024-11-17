@@ -17,20 +17,21 @@ st.write(
 st.write("You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
 )
 
+openai_api_key = st.text_input("OpenAI API Key", type="password")
+# OPENAI_API_KEY=openai_api_key
 if not openai_api_key:
-    openai_api_key = st.text_input("OpenAI API Key", type="password")
-    # OPENAI_API_KEY=openai_api_key
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 
 
 
 
-
-from utils import get_answer_csv # type: ignore
-uploaded_file = "./original_campustrees.csv"
-query = st.text_area("Ask any question related to our database")
 if openai_api_key:
+    from utils import get_answer_csv # type: ignore
+    uploaded_file = "./original_campustrees.csv"
+    query = st.text_area("Ask any question related to the document")
     st.write(get_answer_csv(uploaded_file, openai_api_key, query))
+
+
 
 # uploaded_file = st.file_uploader("Upload a csv file", type=["csv"])
 # if uploaded_file is not None:
