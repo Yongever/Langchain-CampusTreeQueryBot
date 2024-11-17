@@ -22,7 +22,7 @@ This is an example made through Streamlit Community Cloud:
 
 https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit.app 
 
-<img width="730" alt="image" src="https://github.com/user-attachments/assets/ee19e26a-5e40-40f2-805c-bb7a129a6d7e">
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/dca703ec-1cf3-401e-8f03-3bf1a1f16602">
 
 
 Example after some prompts
