@@ -28,7 +28,7 @@ if not openai_api_key:
 
 from utils import get_answer_csv # type: ignore
 uploaded_file = "./original_campustrees.csv"
-query = st.text_area("Ask any question related to the document")
+query = st.text_area("Ask any question related to our database")
 if openai_api_key:
     st.write(get_answer_csv(uploaded_file, openai_api_key, query))
 
