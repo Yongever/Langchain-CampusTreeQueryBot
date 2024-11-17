@@ -1,6 +1,6 @@
 # Question answering system over SQL & CSV data
 
-# Architecture
+## Architecture
 
 At a high-level, the steps of these systems are:
 
