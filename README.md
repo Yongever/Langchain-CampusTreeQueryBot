@@ -1,4 +1,4 @@
-# Question answering system over SQL or CSV data
+# Question answering system over SQL & CSV data
 If you don't want to use a local development environment, Streamlit Community Cloud makes it easy to create a GitHub codespace that's fully configured for Streamlit app development.
 
 This is an example made through Streamlit Community Cloud:
