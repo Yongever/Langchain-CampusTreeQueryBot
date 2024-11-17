@@ -25,6 +25,8 @@ https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit
 <img width="729" alt="image" src="https://github.com/user-attachments/assets/dca703ec-1cf3-401e-8f03-3bf1a1f16602">
 
 
+
+
 Example after some prompts
 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/fb2e18b4-2fef-4b50-8366-65fec5f4846b">
