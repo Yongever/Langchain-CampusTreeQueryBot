@@ -17,9 +17,9 @@ st.write(
 st.write("You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
 )
 
-openai_api_key = st.text_input("OpenAI API Key", type="password")
-# OPENAI_API_KEY=openai_api_key
 if not openai_api_key:
+    openai_api_key = st.text_input("OpenAI API Key", type="password")
+    # OPENAI_API_KEY=openai_api_key
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 
 
