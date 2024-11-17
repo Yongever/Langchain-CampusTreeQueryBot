@@ -1,4 +1,7 @@
 # Question answering system over SQL & CSV data
+https://python.langchain.com/assets/images/sql_usecase-d432701261f05ab69b38576093718cf3.png
+
+![image](https://github.com/user-attachments/assets/350a5716-d6e2-4968-8631-61b34c6c4db0)
 If you don't want to use a local development environment, Streamlit Community Cloud makes it easy to create a GitHub codespace that's fully configured for Streamlit app development.
 
 This is an example made through Streamlit Community Cloud:
