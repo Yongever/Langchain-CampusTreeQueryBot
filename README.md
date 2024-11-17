@@ -2,7 +2,6 @@
 
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/d52c7ed7-54ac-436a-99f0-3d085bb9fd14">
 
-![image](https://github.com/user-attachments/assets/350a5716-d6e2-4968-8631-61b34c6c4db0)
 If you don't want to use a local development environment, Streamlit Community Cloud makes it easy to create a GitHub codespace that's fully configured for Streamlit app development.
 
 This is an example made through Streamlit Community Cloud:
