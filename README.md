@@ -18,7 +18,6 @@ Note that querying data in CSVs can follow a similar approach
 
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/d52c7ed7-54ac-436a-99f0-3d085bb9fd14">
 
-
 ## Example
 
 This is a web app hosted through Streamlit Community Cloud:
