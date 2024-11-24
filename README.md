@@ -20,17 +20,9 @@ Note that querying data in CSVs can follow a similar approach
 
 
 
-If you don't want to use a local development environment, Streamlit Community Cloud makes it easy to create a GitHub codespace that's fully configured for Streamlit app development.
-
-This is an example made through Streamlit Community Cloud:
+This is a web app hosted through Streamlit Community Cloud:
 
 https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit.app 
 
-<img width="729" alt="image" src="https://github.com/user-attachments/assets/dca703ec-1cf3-401e-8f03-3bf1a1f16602">
+<img width="730" alt="image" src="https://github.com/user-attachments/assets/8542a68a-5d9e-41d5-9438-1c41d7ecfc49">
 
-
-
-
-Example after some prompts
-
-<img width="720" alt="image" src="https://github.com/user-attachments/assets/fb2e18b4-2fef-4b50-8366-65fec5f4846b">
