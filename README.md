@@ -25,5 +25,5 @@ This is the web app hosted through Streamlit Community Cloud:
 
 https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit.app 
 
-<img width="730" alt="image" src="https://github.com/user-attachments/assets/8542a68a-5d9e-41d5-9438-1c41d7ecfc49">
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/dbb62b3a-5572-42fd-b92c-efbda5e5c968">
 
