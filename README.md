@@ -4,6 +4,7 @@
 This web app aims to make complex environmental data accessible to all by utilizing GPT-3.5 to translate natural language queries into SQL or Pandas queries. Built with Langchain and Streamlit, the app uses a dataset from Dr. Binney Girdler Kiah at Kalamazoo College about campus trees, detailing their health and carbon sequestration. It serves as an educational tool for users without a technical background, allowing easy interaction with scientific data and supporting sustainability initiatives on campus. Future developments hope to integrate dynamic data updates for real-time analysis, enhancing its utility for environmental research and education.
 
 
+
 ## Architecture
 
 At a high-level, the steps of these systems are:
