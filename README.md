@@ -21,7 +21,7 @@ Note that querying data in CSVs can follow a similar approach
 
 ## Example
 
-This is a web app hosted through Streamlit Community Cloud:
+This is the web app hosted through Streamlit Community Cloud:
 
 https://question-answering-system-over-sql-data-extewqnrum5foh8ahnycbr.streamlit.app 
 
